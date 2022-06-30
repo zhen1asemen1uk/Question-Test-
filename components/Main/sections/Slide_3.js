@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import Button from "../../reusable/Button";
 
-import Dropdown from "../../reusable/dropdown";
+import Dropdown from "../../reusable/Dropdown";
 import { Head_Block, Task_Block } from "../Main";
 
 // --------------------------------------------------------------------------------------------------
